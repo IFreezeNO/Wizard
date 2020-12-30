@@ -1,6 +1,7 @@
 [
    {
       "id":1,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/71JddVMJasL._AC_SY355_.jpg",
       "url":"https://amzn.to/37ZX0xZ",
       "title":"ICETEK RGB Case Fans",
@@ -9,6 +10,7 @@
    },
      {
       "id":2,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/61zhjfTYrvL._AC_SX425_.jpg",
       "url":"https://amzn.to/3huRwOJ",
       "title":"Arctic F12 TC - 120 mm",
@@ -17,6 +19,7 @@
    },
    {
       "id":3,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/61EX8Yw8WEL._AC_SX425_.jpg",
       "url":"https://amzn.to/3rIAb9C",
       "title":"Antec PC Fans 5 Packs, Silent Case Fan with High",
@@ -25,6 +28,7 @@
    },
    {
       "id":4,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/813Iwjr0HdL._AC_SX425_.jpg",
       "url":"https://amzn.to/3pz2dmf",
       "title":"EZDIY-FAB 120mm Purple LED Fan",
@@ -33,6 +37,7 @@
    },
     {
       "id":5,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/91-WKoE6sTL._AC_SX425_.jpg",
       "url":"https://amzn.to/2KOzXgz",
       "title":"Noctua NF-P12 redux-1700 PWM",
@@ -41,6 +46,7 @@
    },
    {
       "id":6,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/71WPGXQLcLL._AC_SX425_.jpg",
       "url":"https://amzn.to/2WX6gwA",
       "title":"AMD Ryzen 5 3600 Processor",
@@ -49,6 +55,7 @@
    },
    {
       "id":7,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/61Wrp3hrfKL._AC_SX425_.jpg",
       "url":"https://amzn.to/3o0X069",
       "title":"ASUS ROG Strix B450",
@@ -57,6 +64,7 @@
    },
    {
       "id":8,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/71ur1PIQ6CL._AC_SX425_.jpg",
       "url":"https://amzn.to/3rF5mTf",
       "title":"RGB Gaming Mouse Mat Pad Large",
@@ -65,6 +73,7 @@
    },
    {
       "id":9,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/71XiT2mgvCL._AC_SX425_.jpg",
       "url":"https://amzn.to/2Juux9W",
       "title":"WOWLED RGB LED Strip",
@@ -73,6 +82,7 @@
    },
    {
       "id":10,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/61mCPqoP6bL._AC_SX679_.jpg",
       "url":"https://amzn.to/34X6XtV",
       "title":"MSI B450 TOMAHAWK MAX",
@@ -81,6 +91,7 @@
    },
    {
       "id":11,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/61v7nQW4NZL._AC_SY450_.jpg",
       "url":"https://amzn.to/38KfJwF",
       "title":"CiT Raider PC Gaming Case",
@@ -89,6 +100,7 @@
    },
    {
       "id":12,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/71hogUR3%2BbL._AC_SX679_.jpg",
       "url":"https://amzn.to/34Yr0bv",
       "title":"NZXT H210 - Mini-ITX PC Gaming Case",
@@ -97,6 +109,7 @@
    },
    {
       "id":13,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/7127Yzs7RzL._AC_SX522_.jpg",
       "url":"https://amzn.to/37X8ySz",
       "title":"Govee LED Strip Lights 5m RGB",
@@ -105,6 +118,7 @@
    },
    {
       "id":14,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/71nlPsAnN0L._AC_SX679_.jpg",
       "url":"https://amzn.to/3800Mr9",
       "title":"Nanoleaf Aurora Rhythm Music Syncing Smarter Kit",
@@ -113,6 +127,7 @@
    },
    {
       "id":15,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/71Q5sdPHD-L._AC_SX679_.jpg",
       "url":"https://amzn.to/382aMAd",
       "title":"Intel Core i7 9700",
@@ -121,6 +136,7 @@
    },
    {
       "id":16,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/71mINzpZ7QL._AC_SX425_.jpg",
       "url":"https://amzn.to/38KXaZ3",
       "title":"Intel CORE I5-9600K",
@@ -129,6 +145,7 @@
    },
    {
       "id":17,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/81qqtMTkN1L._AC_SX425_.jpg",
       "url":"https://amzn.to/3o0JBLJ",
       "title":"Intel Core i9-9900K Retail",
@@ -137,6 +154,7 @@
    },
    {
       "id":18,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/71DTUOZdDnL._AC_SX425_.jpg",
       "url":"https://amzn.to/2WWqshY",
       "title":"AMD Ryzen 3 3100 Processor",
@@ -145,6 +163,7 @@
    },
    {
       "id":19,
+      "Category": 1,
       "image":"https://images-na.ssl-images-amazon.com/images/I/81cYYaiqyPL._AC_SY606_.jpg",
       "url":"https://amzn.to/3hvGQiJ",
       "title":"Corsair 275R Airflow T",
