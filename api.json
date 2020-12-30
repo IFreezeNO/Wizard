@@ -46,5 +46,109 @@
       "title":"AMD Ryzen 5 3600 Processor",
       "smallDescription":"AMD Ryzen 5 3600 Processor (6C/12T, 35 MB Cache, 4.2 GHz Max Boost)",
       "Price": 189.98 
+   },
+   {
+      "id":7,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/61Wrp3hrfKL._AC_SX425_.jpg",
+      "url":"https://amzn.to/3o0X069",
+      "title":"ASUS ROG Strix B450",
+      "smallDescription":"ASUS ROG Strix B450-F Gaming ATX Motherboard, AMD Socket AM4, Ryzen 3000 Ready, PCIe 3.0, M.2, DDR4, Intel GB LAN, HDMI, DP, USB 3.1, Aura Sync RGB",
+      "Price": 89.99 
+   },
+   {
+      "id":8,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71ur1PIQ6CL._AC_SX425_.jpg",
+      "url":"https://amzn.to/3rF5mTf",
+      "title":"RGB Gaming Mouse Mat Pad Large",
+      "smallDescription":"RGB Gaming Mouse Mat Pad Large Thick(800×300×4mm) Hcman XXXL Extended Led Mousepad with Non-Slip Rubber Base, Soft Computer Keyboard Mice Mat for Macbook, PC, Laptop, Desk - Black",
+      "Price": 28.99 
+   },
+   {
+      "id":9,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71XiT2mgvCL._AC_SX425_.jpg",
+      "url":"https://amzn.to/2Juux9W",
+      "title":"WOWLED RGB LED Strip",
+      "smallDescription":"WOWLED RGB LED Strip Lights Magnetic PC for Mid Tower Case Decoration Remote Control Powered by 4-Pin Molex Cable DC 12V 30cm 5050 SMD Pack of 2 Strips",
+      "Price": 16.99 
+   },
+   {
+      "id":10,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/61mCPqoP6bL._AC_SX679_.jpg",
+      "url":"https://amzn.to/34X6XtV",
+      "title":"MSI B450 TOMAHAWK MAX",
+      "smallDescription":"MSI B450 TOMAHAWK MAX Motherboard ATX, AM4, DDR4, LAN, USB 3.2 Gen2, TYPE-C, M.2, RGB Mystic Light Sync, HDMI, DVI-D, AMD RYZEN 1st, 2nd and 3rd Gen Ready",
+      "Price": 89.99 
+   },
+   {
+      "id":11,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/61v7nQW4NZL._AC_SY450_.jpg",
+      "url":"https://amzn.to/38KfJwF",
+      "title":"CiT Raider PC Gaming Case",
+      "smallDescription":"CiT Raider PC Gaming Case, Mid-Tower ATX, Halo Dual - Ring Spectrum Fans, RGB, PCB Hub w/ Aura Connectivity, RF Controller, MB Sync, Tempered Glass, For a Great Gaming Experience | Black",
+      "Price": 46.95
+   },
+   {
+      "id":12,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71hogUR3%2BbL._AC_SX679_.jpg",
+      "url":"https://amzn.to/34Yr0bv",
+      "title":"NZXT H210 - Mini-ITX PC Gaming Case",
+      "smallDescription":"NZXT H210 - Mini-ITX PC Gaming Case - Front I/O USB Type-C Port - Tempered Glass Side Panel - Cable Management System - Water-Cooling Ready - Radiator Bracket - Steel Construction - Black",
+      "Price": 84.99 
+   },
+   {
+      "id":13,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/7127Yzs7RzL._AC_SX522_.jpg",
+      "url":"https://amzn.to/37X8ySz",
+      "title":"Govee LED Strip Lights 5m RGB",
+      "smallDescription":"Govee LED Strip Lights 5m RGB Colour Changing Lighting Strip with Remote and Control Box for Home TV Kitchen DIY Decoration [Energy Class A]",
+      "Price": 189.98 
+   },
+   {
+      "id":14,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71nlPsAnN0L._AC_SX679_.jpg",
+      "url":"https://amzn.to/3800Mr9",
+      "title":"Nanoleaf Aurora Rhythm Music Syncing Smarter Kit",
+      "smallDescription":"Nanoleaf Aurora Rhythm Music Syncing Smarter Kit, White, 9-Pack Starter",
+      "Price": 220.00
+   },
+   {
+      "id":15,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71Q5sdPHD-L._AC_SX679_.jpg",
+      "url":"https://amzn.to/382aMAd",
+      "title":"Intel Core i7 9700",
+      "smallDescription":"Intel Core i7 9700K 3.6GHz Octa Core LGA1151 CPU",
+      "Price": 269.99
+   },
+   {
+      "id":16,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71mINzpZ7QL._AC_SX425_.jpg",
+      "url":"https://amzn.to/38KXaZ3",
+      "title":"Intel CORE I5-9600K",
+      "smallDescription":"Intel CORE I5-9600K 3.7 GHZ SKT1151 9MB CACHE BOXED - BX80684I59600K (Components > Processors CPU)",
+      "Price": 190.00
+   },
+   {
+      "id":17,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/81qqtMTkN1L._AC_SX425_.jpg",
+      "url":"https://amzn.to/3o0JBLJ",
+      "title":"Intel Core i9-9900K Retail",
+      "smallDescription":"Intel Core i9-9900K Retail - (1151/8 Core/3.60GHz/16MB/Coffee Lake/95W/Graphics)",
+      "Price": 315.99
+   },
+   {
+      "id":18,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71DTUOZdDnL._AC_SX425_.jpg",
+      "url":"https://amzn.to/2WWqshY",
+      "title":"AMD Ryzen 3 3100 Processor",
+      "smallDescription":"AMD Ryzen 3 3100 Processor (4C/8T, 18 MB Cache, 3.9 GHz Max Boost)",
+      "Price": 97.27
+   },
+   {
+      "id":19,
+      "image":"https://images-na.ssl-images-amazon.com/images/I/81cYYaiqyPL._AC_SY606_.jpg",
+      "url":"https://amzn.to/3hvGQiJ",
+      "title":"Corsair 275R Airflow T",
+      "smallDescription":"Corsair 275R Airflow Tempered Glass Mid-Tower ATX Gaming Case (Tempered Glass Side Panels, Three 120 mm Cooling Fans Included, Verstaile Cooling, Expansive Storage, Removable Dust Filters), White",
+      "Price": 67.99
    }
 ]
